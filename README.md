@@ -18,4 +18,5 @@ speedrun: Interacts with https://www.speedrun.com/sm64 API to alert people if th
        usage: !speedrun
        
 logs: Scrapes https://logs.tf/ to see if there any logs to display
+
        usage: !logs
