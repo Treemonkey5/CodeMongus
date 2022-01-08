@@ -5,6 +5,7 @@ Main commands:
 
 covid: Multiple options in the command
        scrapes data from https://santemontreal.qc.ca/en/public/coronavirus-covid-19/situation-of-the-coronavirus-covid-19-in-montreal/#c43674
+       
        and https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus
        
        covid montreal: scrapes isplays covid data about Montreal
