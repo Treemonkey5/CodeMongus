@@ -1,0 +1,2 @@
+# CodeMongus
+A discord bot
