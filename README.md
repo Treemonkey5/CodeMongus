@@ -1,5 +1,5 @@
-# CodeMongus
-A discord bot
+# CodeMongus Bot
+A Discord Bot Application 
 
 Main commands:
 
